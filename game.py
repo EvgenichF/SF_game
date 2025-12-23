@@ -10,7 +10,8 @@ def random_predict(number:int=1) -> int:
         int: Число попыток N
     """
  
-    count = 10
+    count = 0
+    
     
 
     while True:
